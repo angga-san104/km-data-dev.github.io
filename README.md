@@ -34,6 +34,7 @@ GCP is a public cloud vendor that offers a suite of computing services to do eve
 Why we choose GCP for CI/CD this project. First, we've utilized GCP's versatile and high-performing storage solutions for efficient data storage, ensuring that we can securely manage the vast amount of stock market data we acquire. BigQuery, one of GCP's data warehousing services, is pivotal in our project as it allows us to perform advanced analytics and queries on massive datasets, all in real-time.
 
 ![Alt text](image.png)
+
 Not all of service on GCP are used for this project, only some service where suitable for build this project, what service GCP are we used to build this project are follow as:
 - Bigquery
 - Cloud Function
