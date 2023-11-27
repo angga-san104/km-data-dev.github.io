@@ -6,7 +6,7 @@ _This project is about how to analyze and predict various stocks from the IDX (I
 - Analytic data stock on BigQuery 
 - Make prediction model using Vertex AI
 
-~Project overview~
+# Project overview
 
 > Downloading data stock
 
