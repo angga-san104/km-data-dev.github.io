@@ -8,7 +8,7 @@ _This project is about how to analyze and predict various stocks from the IDX (I
 
 # Project overview
 
-> Downloading data stock
+## Downloading data stock
 
 Explore how to obtain stock data from the Yahoo Finance API using python. Yahoo Finance provides a wealth of information on a wide range of stocks, making it a valuable resource for our analysis and predictions. On this section we will demonstrate how to access this data programmatically, ensuring we have the most up-to-date information. With Yahoo Finance library for Python, we can conveniently retrieve data for the specific stocks we are interested in and prepare it for further processing.
 
